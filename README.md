@@ -1,4 +1,4 @@
-# ShopTipid (CLI)
+# ShopTipid
 
 A command-line shop written in Java for Data Structures and Algorithms. Customers browse, buy and get recommendations; admins manage products
 and users. No GUI and no web: terminal only.
