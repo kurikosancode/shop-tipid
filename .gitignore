@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.vscode/
+*.class
+data/*.corrupt-*
+data/*.tmp
