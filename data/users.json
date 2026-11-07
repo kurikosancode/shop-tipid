@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin",
+    "passwordHash": "b180c228f04a5329d1c95a264cec5a7a1ce7e8611b77e2f88665b4ca3e29aef1",
+    "salt": "9c45e0acea26e70f663f8c997d05ab62",
+    "role": "ADMIN",
+    "joinDate": "2026-11-07",
+    "settings": {
+      "rankBy": "BEST_MATCH",
+      "wSimilarity": 0.4,
+      "wPopularity": 0.25,
+      "wRating": 0.25,
+      "wPriceFit": 0.1
+    }
+  },
+  {
+    "username": "kurt",
+    "passwordHash": "5b724493501bed1a107b8953415024f0b6ef42fe3618b29fa3a9299aac08a3bc",
+    "salt": "4ca0a73f561f45f6e25ab2ff4d256fdb",
+    "role": "CUSTOMER",
+    "joinDate": "2026-11-07",
+    "settings": {
+      "rankBy": "BEST_MATCH",
+      "wSimilarity": 0.4,
+      "wPopularity": 0.25,
+      "wRating": 0.25,
+      "wPriceFit": 0.1
+    }
+  }
+]

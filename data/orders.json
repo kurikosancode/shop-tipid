@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ORD-00001",
+    "username": "kurt",
+    "date": "2026-11-07T10:51:46",
+    "items": [
+      {
+        "productId": "P050",
+        "productName": "Creatine Monohydrate 300g",
+        "category": "Fitness",
+        "label": "Supplements",
+        "quantity": 10,
+        "priceAtPurchase": 1299.0
+      }
+    ],
+    "total": 12990.0
+  }
+]
